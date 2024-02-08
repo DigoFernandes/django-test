@@ -1,6 +1,6 @@
 # Treinamento para Futuro Projeto
 
-Este repositório é dedicado ao treinamento e experimentação para um projeto futuro. Ele contém exemplos de código, testes, e qualquer outra coisa relacionada ao aprendizado e desenvolvimento de habilidades necessárias para o projeto futuro.
+Este repositório é dedicado ao treinamento e experimentação para um projeto futuro. Ele contém exemplos de código, testes, e qualquer outra coisa relacionada ao aprendizado e desenvolvimento de habilidades necessárias para um projeto futuro.
 
 ## Objetivo
 
